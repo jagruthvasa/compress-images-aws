@@ -86,14 +86,14 @@ Visit the hosted site `https://compress-images-aws.onrender.com/`
 
 ## 📬 Postman Collection
 
-Access the Postman collection for API testing: [Public Collection](https://www.postman.com/aviation-architect-34779856/workspace/compress-images-aws/collection/36467777-51c5c4af-2530-47d6-8174-d5f61e204039?action=share&creator=36467777).
+Access the Postman collection for API testing: [Public Collection](https://www.postman.com/aviation-architect-34779856/workspace/compress-images-aws/request/36467777-f011c6eb-a532-45d7-a635-ee63bb9840c8).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 📄 Detailed Project Description
 
-For a detailed overview of the project, please refer to the [Google Document]().
+For a detailed overview of the project, please refer to the [Google Document](https://docs.google.com/document/d/11Q5R1RDQNjv7wLYlivay_bg3x6zv5g325ZncCn_LmOw/edit?usp=sharing).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
