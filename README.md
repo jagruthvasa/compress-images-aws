@@ -19,7 +19,7 @@ This Node.js application processes images from a CSV file, compresses them, gene
 
 ## 🌐 Hosted URL
 
-Visit the hosted site [here]().
+Visit the hosted site `https://compress-images-aws.onrender.com/`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -42,7 +42,7 @@ Visit the hosted site [here]().
 
 ### 1. Process CSV and Generate Images
 
-**Endpoint:** `POST api/upload`
+**Endpoint:** `POST https://compress-images-aws.onrender.com/api/upload`
 
 **Description:** Process a CSV file to generate images and store the results.
 
@@ -64,7 +64,7 @@ Visit the hosted site [here]().
 
 ### 2. Get Request Status
 
-**Endpoint:** `GET http://localhost:3000/api/status/:requestId`
+**Endpoint:** `GET https://compress-images-aws.onrender.com/api/status/:requestId`
 
 **Description:** Retrieve the status of a processing request.
 
