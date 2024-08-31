@@ -86,7 +86,7 @@ Visit the hosted site [here]().
 
 ## 📬 Postman Collection
 
-Access the Postman collection for API testing: [Public Collection]().
+Access the Postman collection for API testing: [Public Collection](https://www.postman.com/aviation-architect-34779856/workspace/compress-images-aws/collection/36467777-51c5c4af-2530-47d6-8174-d5f61e204039?action=share&creator=36467777).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
