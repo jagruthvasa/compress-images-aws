@@ -98,21 +98,9 @@ For a detailed overview of the project, please refer to the [Google Document](ht
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- CONTACT -->
-## 📞 Contact
-
-**Vasa Sai Jagruth**
-
-- **LinkedIn:** [@jagruth](https://www.linkedin.com/in/jagruth/)
-- **Email:** jagruthvasa@gmail.com
-- **Phone:** +91 90105 45613
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## 📝 Note
 
-Please email me at [jagruthvasa@gmail.com](mailto:jagruthvasa@gmail.com) if you encounter any server downtime during testing. I will promptly restart the server (hosted on render.com).
+Please email me at [saijagruthvasa@gmail.com](mailto:saijagruthvasa@gmail.com) if you encounter any server downtime during testing. I will promptly restart the server (hosted on render.com).
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
